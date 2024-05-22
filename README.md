@@ -14,7 +14,7 @@ Figure 5BC.opju
 Figure 6 Currents vary parameters.opju
 
 Simulations of Figure 5BC were performed with a program in Mathcad15
-Buffler GluR2 flop GN 5-6-2024.xmcd
+Figure 5.xmcd
 
 Simulations of Figure 6 were performed with a program in MatLabR2023b
 modelMJtauN0.m
